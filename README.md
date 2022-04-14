@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeelaPRABA
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning JAVA,SPRING
+- 🌱 I’m currently learning JAVA,SPRING,HTML,CSS,PYTHON
 
 
 <!---
